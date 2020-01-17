@@ -32,4 +32,6 @@ Using the PSI-BLAST to obtain the PSSM matrix and Sliding window.py for extracti
 ### aac method
 Using the raw sequence and aac.py for extracting features.
 ## feature selection
-mRMR algorithm you can download from http://penglab.janelia.org/proj/mRMR/#c++
+mRMR algorithm you can download from http://penglab.janelia.org/proj/mRMR/#c++.
+## Classification Algorithm
+LIBSVM you can download from https://www.csie.ntu.edu.tw/~cjlin/libsvm/ and use predict.sh to use it.
