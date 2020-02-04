@@ -1,7 +1,7 @@
 # DNA-binding
 DNA-binding protein 
 ## DataSet
-The raw sequences of PDB1075 and PDB186 datasets can be obtained from http://server.malab.cn/Local-DPP/Datasets.html
+The raw sequences of PDB1075 and PDB186 datasets can be obtained from original data
 ## Feature extraction
 you must use python3 version to extract features
 ### Local_DPP method
