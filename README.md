@@ -1,5 +1,5 @@
-# DNA-binding
-DNA-binding protein 
+# DBP-PSSM
+DNA-binding protein predicting
 ## DataSet
 The raw sequences of PDB1075 and PDB186 datasets can be obtained from original data
 ## Feature extraction
